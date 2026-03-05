@@ -1,10 +1,10 @@
 {
   "_comment": "Online whitelist for X News Generator. Upload to a public URL.",
-  "_updated": "2026-03-05 20:52:10",
+  "_updated": "2026-03-05 20:54:24",
   "_total_issued": 14,
-  "_revoked": 0,
+  "_revoked": 1,
   "_expired": 0,
-  "_active": 14,
+  "_active": 13,
   "valid_hashes": [
     "c9666df398557aabeed4d930c6b796482c2408b9422bd9b69673abbc5ba52391",
     "02b2c70857850bdbe566751077a61b9692220a194af9835965825f4a7451f737",
@@ -18,8 +18,7 @@
     "aaf84669adae1097c38b91733d1cb3a44bcd60147aef06430637ec9037dd6af7",
     "ce0c87fe7cc2076dfe8308e58454ad2757f1175a0c50404d9d8446cb0b06a8bd",
     "4ff280c2bb5be9b80f725b6517ee7c3665d6616c2dba1dd26d992a27faa3b11e",
-    "b3b90f7665c52a0421475e7be94edd647b89850e7d1a9ecc65bf3ebff54858a7",
-    "d0ebc25834f4da18e99b5d0a29e4a85ac37426c6d7df1784034ca241234dee28"
+    "b3b90f7665c52a0421475e7be94edd647b89850e7d1a9ecc65bf3ebff54858a7"
   ],
-  "sig": "b1ae0721402b8b16f6c88a141cf76094a4939cb2bc8be8fe8b37e94835155ee0"
+  "sig": "c9e0f3594ecfe8d0dce66fa15d313fc980d6e407d34e4b05ccb08fe296b020ca"
 }
